@@ -48,7 +48,7 @@ let num3 = 20;
 
 let resultado = num1 + num2;
 
-console,console.log(resultado);
+console.log(resultado);
 
 // RESTA
 
@@ -88,8 +88,25 @@ console.log("El resultado seria: " + resultado4);
 
 // Que hace?
 // Lo que realiza, Es que nos devuelve el residuo de una division
+// El resultado?
+// El resultado seria 1, ya que sobra uno y ese seria el resultado, 
+// Perdon si la respuesta es muy corta y distante pero no le tengo practica a las matematicas y menos en
+// Programacion
 
+//RETO 3 (LÓGICA)
+//let numero = 8;
 
+//console.log(numero++);
+//console.log(numero);
+//console.log(++numero);
+
+//Que nos imprime? 
+
+//Primero declaramos una variable la cual se llama numero, en esta variable el valor seria 8 
+// Despues se nos muestra una consola, la cual nos imprime el numero 8 y luego realiza un incremento que se
+//Mostrara en la siguiente consola, en la segunda queda con 9 y en la siguiente consola 
+// La cual realiza un pre- incremento, el cual incrementa primero el numero 9 y despues se nos muestra el 
+//Resultado en consola. el cual seria 10.
 
 
 
